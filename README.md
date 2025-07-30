@@ -10,7 +10,7 @@ This demo shows how to use Hashcat to crack password hashes using a dictionary a
 ## Requirements
 
 - [Hashcat](https://hashcat.net/hashcat/)
-- A dictionary file like [rockyou.txt](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt)
+- A dictionary file like [tape.txt](https://github.com/brannondorsey/naive-hashcat/releases/download/data/tape.txt)
 
 ## How to Use
 
